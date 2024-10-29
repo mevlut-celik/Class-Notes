@@ -1,2 +1,2 @@
 # Class-Notes
-this repo consist class notes of metu phys classes.
+this repo consists of lecture notes on metu phys classes.
